@@ -1,0 +1,23 @@
+ul{
+    color: white !important;
+    font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+}
+#menubar{
+    border-right: 1px solid rgba(255, 255, 255, 0.5);
+}
+.menu-button{
+    text-decoration: none !important;
+    color: white !important;
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.menu-button:hover{
+
+}
+li:hover{
+    background-color: #131e26;
+}
